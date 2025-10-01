@@ -15,8 +15,8 @@ Download the respiratory and run ux.py. Create a "save.txt", where the treasury 
         iv - view the current weekly incomes    
         w - view total weekly income with modifiers applied     
     Treasury:   
-        ta - add an amount of gp to the treas   ury 
-        tr - remove an amount of gp from the    treasury 
+        ta - add an amount of gp to the treasury 
+        tr - remove an amount of gp from the treasury 
         tv - view treasury  
         tm - multiply treasury with a number    
     Simulate:   
