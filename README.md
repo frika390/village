@@ -2,6 +2,7 @@
 A system where you can simulate weekly incomes. Made to make settlement management easier for DnD. 
 
 Download the respiratory and run ux.py. Create a "save.txt", where the treasury will be saved. It will start a text based UI. Write the corresponding letter(s) to do the command: 
+    
     q - quit without saving 
 
     Weekly modfiers:    
@@ -25,4 +26,4 @@ Download the respiratory and run ux.py. Create a "save.txt", where the treasury 
         s - save the added modfiers, treasury and incomes 
         delete - delete all saved data
 
-Important to rember to save before quiting!
+Important to remember to save before quiting!
