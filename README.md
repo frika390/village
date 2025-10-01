@@ -26,4 +26,4 @@ Download the respiratory and create a "save.txt" in the respiratory, where the t
         s - save the added modfiers, treasury and incomes 
         delete - delete all saved data
 
-Important to remember to save before quiting!
+Important to remember to save before quitting!
